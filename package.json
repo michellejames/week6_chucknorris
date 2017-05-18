@@ -6,6 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "browser-sync": "^2.18.6",
+    "cocoen": "^2.0.2",
     "gulp": "^3.9.1",
     "gulp-jshint": "^2.0.4",
     "gulp-sass": "^3.0.0",
